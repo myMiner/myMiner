@@ -46,4 +46,13 @@
 
 ### Where are my generated Wallet-Addresses?
 
+<p align="center">
+  <img src="https://myminer.org/themes/myMiner/assets/downloads/7(1)-Find Wallets.png">
+</p>
+
+
 ### How can I use my own Wallet-Address?
+
+<p align="center">
+  <img src="https://myminer.org/themes/myMiner/assets/downloads/find-settings.png">
+</p>
