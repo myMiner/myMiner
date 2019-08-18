@@ -1,5 +1,7 @@
 # myMiner
-GUI Miner for multiple crypto currencies 
+<p align="center">
+  GUI Miner for multiple crypto currencies
+</p>
 
 
 <p align="center">
@@ -9,7 +11,6 @@ GUI Miner for multiple crypto currencies
 
 
 ## Features
-Features
 
 - **Direct poolmining**
   You are mining directly with a pool. All Coins are paid by the pool, we are not a man in the middle.
