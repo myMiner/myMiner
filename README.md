@@ -1,7 +1,11 @@
 # myMiner
 GUI Miner for multiple crypto currencies 
 
-![Screenshot](https://myminer.org/themes/myMiner/assets/downloads/GuiForum2.png)
+
+<p align="center">
+  <img src="https://myminer.org/themes/myMiner/assets/downloads/GuiForum2.png">
+</p>
+
 
 
 ## Features
