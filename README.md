@@ -8,12 +8,17 @@
   <img src="https://myminer.org/themes/myMiner/assets/downloads/GuiForum2.png">
 </p>
 
+<p align="center">
+  <a href="https://myminer.org/themes/myMiner/assets/downloads/myMiner_Inst.exe" download="myMiner_Inst.exe">
+    <img src="https://myminer.org/themes/myMiner/assets/downloads/DownloadButton.png">
+  </a>
+</p>
 
 
 ## Features
 
 - **Direct poolmining**
-  You are mining directly with a pool. All Coins are paid by the pool, we are not a man in the middle.
+  You are mining directly with a pool. All Coins are paid by the pool, myMiner is not a man in the middle.
 
 - **Verifiable progress**
   All numbers and values are checkable with third parties. You can verify your pool balance on the website of your pool, so myMiner cannot show any fake data and mine secretly in favor of someone else.
@@ -49,12 +54,12 @@ Please visit our [website](https://myminer.org/FAQ) for more detailed help.
 ### Where are my generated Wallet-Addresses?
 
 <p align="center">
-  <img src="https://myminer.org/themes/myMiner/assets/downloads/7(1)-Find Wallets.png">
+  <img width="750px" src="https://myminer.org/themes/myMiner/assets/downloads/7(1)-Find Wallets.png">
 </p>
 
 
 ### How can I use my own Wallet-Address?
 
 <p align="center">
-  <img src="https://myminer.org/themes/myMiner/assets/downloads/find-settings.png">
+  <img width="750px" src="https://myminer.org/themes/myMiner/assets/downloads/find-settings.png">
 </p>
