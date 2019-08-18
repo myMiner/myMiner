@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  Download
+</p>
+
+<p align="center">
   <a href="https://myminer.org/themes/myMiner/assets/downloads/myMiner_Inst.exe" download="myMiner_Inst.exe">
     <img src="https://myminer.org/themes/myMiner/assets/downloads/DownloadButton.png">
   </a>
