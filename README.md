@@ -44,6 +44,8 @@
 
 # FAQ
 
+Please visit our [website](https://myminer.org/FAQ) for more detailed help.
+
 ### Where are my generated Wallet-Addresses?
 
 <p align="center">
