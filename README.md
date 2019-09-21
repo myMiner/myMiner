@@ -45,7 +45,7 @@
   - Ethereum (ETH), Monero (XMR)
   
 - Pools:
-  - ethermine.org, hashvault
+  - ethermine.org, hashvault, cryptocompare, cruxpools
   
 - Miner:
   - ethminer, XMR-Stak
