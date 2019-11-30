@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Download v2.21
+  Download v2.23a
 </p>
 
 <p align="center">
