@@ -47,11 +47,6 @@
   <img width="750px" src="https://myminer.org/themes/myMiner/assets/downloads/Forum-GUI-Screen.png">
 </p>
 
-<p align="center">
-  <img width="750px" src="https://myminer.org/themes/myMiner/assets/downloads/Forum-GUI-Help-Screen.png">
-</p>
-
-
 
 ## Details
 - Crypto currencies:
@@ -67,6 +62,10 @@
 # FAQ
 
 Please visit our [website](https://myminer.org/FAQ) for more detailed help.
+
+<p align="center">
+  <img width="750px" src="https://myminer.org/themes/myMiner/assets/downloads/Forum-GUI-Help-Screen.png">
+</p>
 
 ### Where are my generated Wallet-Addresses?
 
