@@ -1,6 +1,6 @@
-# myMiner
+# myMiner - one-click CPU & GPU Miner
 <p align="center">
-  GUI Miner for multiple crypto currencies
+  Easy-to-use Miner for multiple crypto currencies
 </p>
 
 
@@ -18,6 +18,9 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://myminer.org/themes/myMiner/assets/downloads/GuiForum2-1.png">
+</p>
 
 ## Features
 
@@ -40,15 +43,25 @@
   We want to develop and improve the software more and more. There is a fee of 2%. 
 
 
+<p align="center">
+  <img width="750px" src="https://myminer.org/themes/myMiner/assets/downloads/Forum-GUI-Screen.png">
+</p>
+
+<p align="center">
+  <img width="750px" src="https://myminer.org/themes/myMiner/assets/downloads/Forum-GUI-Help-Screen.png">
+</p>
+
+
+
 ## Details
 - Crypto currencies:
-  - Ethereum (ETH), Monero (XMR)
+  - Ethereum (ETH), Ethereum Classic (ETC), Monero (XMR)
   
 - Pools:
-  - ethermine.org, hashvault, cryptocompare, cruxpools
+  - ethermine.org, hashvault, nanopool, cruxpools, coinfoundry
   
 - Miner:
-  - ethminer, XMR-Stak
+  - ethminer, XMR-Stak, XMRig
 
 
 # FAQ
